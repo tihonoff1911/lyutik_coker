@@ -1,0 +1,40 @@
+
+
+body {
+    background-image: url("1613444974_86-p-fon-dlya-prezentatsii-pro-sobak-97.jpg");
+    font-family: cursive;
+    font-weight: 100;
+   
+    backdrop-filter: blur(50%);
+    
+    
+
+
+    
+    
+}
+
+
+
+    table {
+        width: 30%;
+        
+        backdrop-filter: blur(5px);
+        
+    }
+
+
+img {
+    border-radius: 10%;
+    max-width: 700px;
+    box-shadow: 10px;
+}
+
+
+.avatar {
+    padding: 1em;
+    
+
+}
+
+
